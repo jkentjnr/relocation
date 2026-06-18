@@ -41,6 +41,7 @@ Managing Partner (CEO)            — intake, routing, final sign-off
 ├── Director of Investment Strategy — does it pencil out, after tax
 │   ├── Financing Analyst         — mortgages, deposit, cash-at-deed
 │   ├── Tax & Residency Advisor   — stamp duty, rental tax, residency
+│   ├── International Tax & Structuring Specialist — Australian company run from Malta
 │   └── Portfolio Strategist      — like-for-like ROI model
 ├── Director of Relocation & Legal — is it legal to own + let, and livable
 │   ├── Legal & Conveyancing Specialist — AIP vs SDA, notary, konvenju, deed
@@ -49,7 +50,7 @@ Managing Partner (CEO)            — intake, routing, final sign-off
 └── Strategy Editor               — synthesises the final memo
 ```
 
-**14 agents · 11 custom skills.**
+**15 agents · 12 custom skills.**
 
 ## Agents
 
@@ -63,6 +64,7 @@ Managing Partner (CEO)            — intake, routing, final sign-off
 | Director of Investment Strategy | Owns the financial case | Managing Partner |
 | Financing Analyst | Mortgage & cash-at-deed | Dir. Investment Strategy |
 | Tax & Residency Advisor | Stamp duty, rental tax, residency | Dir. Investment Strategy |
+| International Tax & Structuring Specialist | Structuring the Australian company run from Malta | Dir. Investment Strategy |
 | Portfolio Strategist | Like-for-like ROI model | Dir. Investment Strategy |
 | Director of Relocation & Legal | Owns feasibility & livability | Managing Partner |
 | Legal & Conveyancing Specialist | AIP/SDA route & conveyancing | Dir. Relocation & Legal |
@@ -80,6 +82,7 @@ Custom skills in `skills/`, each grounded in 2026 Malta reference facts (to be r
 - `short-let-licensing-assessment` — MTA Holiday Furnished Premises licensability (LN 92/2026)
 - `mortgage-financing-analysis` — LTV, deposit, rate, cash-at-deed
 - `malta-tax-residency-assessment` — stamp duty, rental tax, residency
+- `cross-border-business-structuring` — Australian company operated from Malta (residency, PE, Australia–Malta treaty, non-dom & 6/7ths regimes, exit CGT)
 - `investment-roi-modeling` — like-for-like, after-tax ROI comparison
 - `property-legal-conveyancing` — AIP vs SDA route, notary, konvenju, deed
 - `livability-assessment` — healthcare, connectivity, lifestyle, seasonality

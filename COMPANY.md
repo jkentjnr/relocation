@@ -11,6 +11,7 @@ goals:
   - Research the Malta residential property market across localities, price trends, and property types, and surface the options that fit a primary-residence-first mandate, with rental income as a strong preference, within a EUR 700,000 budget
   - Make the structural tension between living in a property and renting it out under Maltese law (AIP permits vs Special Designated Areas, short-let licensing) explicit, so the couple can choose knowingly between a dual-purpose property and the best possible home even where letting is not permitted
   - Model the full economics of each shortlisted strategy — acquisition costs, financing, taxes, gross and net rental yield where applicable, and total cost of ownership (including the capital-appreciation case for a home-only option) — so the couple can compare options on a like-for-like basis
+  - Advise on how the husband's Australian company should be structured and operated once he works from Malta — corporate tax residency, permanent-establishment risk, the Australia–Malta tax treaty, the Maltese non-dom and company regimes, and Australian exit-tax traps — so the business move is as deliberate as the property one
   - Cover the non-property side of relocation (tax residency, legal conveyancing, healthcare, schooling, banking, and logistics) so the property decision is made inside the real-world context of moving to Malta
   - Deliver a single, decision-ready investment-and-relocation strategy memo with a recommended shortlist, ranked rationale, risks, and a step-by-step action plan
 metadata:
@@ -20,6 +21,7 @@ metadata:
       - Primary residence (a home to actually live in) — the priority
       - Rental yield / income from property — a strong preference, not a hard requirement
     budget_eur: Up to 700000
+    business: The husband owns and operates an Australian company that he intends to continue running while living and working in Malta. Structuring it across the Australia–Malta border (corporate residency, permanent establishment, treaty relief, non-dom and Maltese-company regimes, Australian exit CGT) is part of the engagement.
     priority: The home comes first. Rental income is a weighted consideration: the couple would accept a property that cannot be let if it is the right home. Where two options are otherwise close, the one that also produces income wins; but a clearly superior home should not be rejected merely because it cannot be rented.
     nationality:
       both: Australian citizens, married 7 years
@@ -51,7 +53,7 @@ The firm runs as a **hub-and-spoke practice with a synthesis pipeline**:
 1. **Managing Partner (CEO)** takes the brief, confirms the mandate against the client profile, and routes work to the three directors. Holds final sign-off.
 2. **Three directors** each own a domain and delegate to their specialists:
    - **Director of Market Research** — what to buy and where (market data, localities, rental yields).
-   - **Director of Investment Strategy** — whether it pencils out (financing, tax & residency, ROI modelling).
+   - **Director of Investment Strategy** — whether it pencils out (financing, tax & residency, cross-border business structuring, ROI modelling).
    - **Director of Relocation & Legal** — whether it is legal and livable (conveyancing & permits, livability, settlement logistics).
 3. **Specialists** produce focused analyses using their skills.
 4. **Strategy Editor** synthesises every contribution into one decision-ready memo and returns it to the Managing Partner for sign-off.
@@ -67,6 +69,7 @@ Managing Partner (CEO)
 ├── Director of Investment Strategy
 │   ├── Financing Analyst
 │   ├── Tax & Residency Advisor
+│   ├── International Tax & Structuring Specialist
 │   └── Portfolio Strategist
 ├── Director of Relocation & Legal
 │   ├── Legal & Conveyancing Specialist
@@ -77,4 +80,4 @@ Managing Partner (CEO)
 
 ## The deliverable
 
-A single **Malta Relocation & Property Investment Strategy** memo: a recommended shortlist of property strategies (locality + property type + ownership route) spanning both dual-purpose (home + income) options and best-home (home + capital appreciation) options, each costed and stress-tested, with a ranked recommendation, an honest risk register, and a step-by-step action plan from offer to keys-in-hand.
+A single **Malta Relocation & Property Investment Strategy** memo: a recommended shortlist of property strategies (locality + property type + ownership route) spanning both dual-purpose (home + income) options and best-home (home + capital appreciation) options, each costed and stress-tested, with a ranked recommendation, a dedicated section on structuring the husband's Australian business from Malta, an honest risk register, and a step-by-step action plan from offer to keys-in-hand.
