@@ -16,6 +16,11 @@ Use this skill to quantify the tax layer of each candidate strategy.
 3. **Tax on a future sale.** Note Malta's property transfer (final withholding) tax regime so the exit is costed, not ignored.
 4. **Ongoing taxes/charges.** Capture any recurring property-related taxes and ground rent/condominium implications.
 5. **Residency interaction.** Explain how ordinary residence or a residency programme interacts with the purchase and with the couple's worldwide-vs-remittance tax position.
+6. **Citizenship & status pathway (decisive here).** Map the couple's status over time, because it changes both the acquisition route and the residency basis:
+   - Both are Australian; the husband is also British, but post-Brexit that is a **third-country** status for Maltese purposes — not EU.
+   - The wife is acquiring **Maltese (EU) citizenship by descent** (mother is the living link; in progress). Once registered, she is an EU citizen, the couple's primary residence escapes AIP, and the husband gains **family-member residence rights** as the spouse of an EU citizen.
+   - After **5 years' continuous Maltese residence**, a Maltese citizen may acquire freely for any purpose, including letting — note this as the long-game unlock for rental on any property.
+   - Flag the **descent-link deadline** (qualifying parent alive on 1 Aug 2007 dying after 1 Aug 2028 without registering can break the line) as an urgent dependency for specialist **citizenship counsel** — it is outside this firm's remit but gates the favourable property regime. Do not attempt to give citizenship-law advice; flag and refer.
 
 ## 2026 reference points (re-verify at runtime)
 - Standard residential stamp duty ~5%; reduced/relief treatment on the first €200,000 for a residence / first-time buyers.

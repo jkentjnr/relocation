@@ -16,6 +16,16 @@ In Malta, *living in* a property and *renting it out* are not automatically comp
 
 So a naive "buy a nice apartment and put it on Airbnb" plan can be illegal depending on the route. Making that trade-off **explicit and quantified** is the firm's central task — and it shapes every agent's instructions. The **home comes first** and rental income is a **strong preference, not a hard rule**: a standout home that cannot legally be let stays on the table, evaluated as a home-plus-capital-appreciation play against the rentable alternatives, so the couple can weigh the forgone income against the better home.
 
+### The trade-off is time-bound: this couple's citizenship status
+
+The firm reasons in **two regimes** because the buyers' status is changing:
+
+- **Today (pre-citizenship):** both are third-country nationals — Australian, and the husband's British citizenship counts as **non-EU post-Brexit**. AIP-or-SDA applies in full.
+- **Once the wife is registered as a Maltese (EU) citizen** (by descent, in progress): the couple's **primary residence escapes AIP entirely** — buy anywhere, no SDA limit — and the husband gains family-member residence rights. Rental income still runs cleanest through an SDA unit until **5 years' continuous residence** unlocks letting on any property.
+- **Time-critical:** under the Maltese Citizenship Act, if the qualifying parent was alive on 1 Aug 2007 and dies after **1 Aug 2028** without registering, the descent link can break. The wife's route runs through her mother, so the mother's registration is an **urgent gating dependency** — flagged by the firm for **specialist citizenship counsel** (it is outside this property firm's remit but decisive for the property regime).
+
+So recommendations state which regime they assume and whether **waiting for citizenship** changes the answer.
+
 ## How the company works
 
 A **hub-and-spoke practice with a synthesis pipeline**: the Managing Partner takes the brief and routes work to three directors; each director's specialists produce focused analyses; the Strategy Editor synthesises everything into one decision-ready memo; the Managing Partner signs off.
