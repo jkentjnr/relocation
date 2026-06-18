@@ -2,7 +2,7 @@
 
 A [Paperclip](https://github.com/paperclipai) **agent company** — a configured team of AI agents with an org chart, skills, and governance — built to do one job well:
 
-> Research the Malta residential property market and produce an integrated **relocation-and-investment strategy** for a couple moving to Malta who want **both a primary home and rental income**, within a budget of **up to €700,000**.
+> Research the Malta residential property market and produce an integrated **relocation-and-investment strategy** for a couple moving to Malta who want **a primary home first** and, **where the right property allows it, rental income** — within a budget of **up to €700,000**.
 
 It conforms to the `agentcompanies/v1` schema and can be imported into Paperclip and run.
 
@@ -14,7 +14,7 @@ In Malta, *living in* a property and *renting it out* are not automatically comp
 - Properties in **Special Designated Areas (SDA)** carry **no such restriction** — they can be let, and an owner may hold more than one.
 - Any **short-let (holiday) rental** requires a **Malta Tourism Authority licence** under the 2026 regime (Legal Notice 92 of 2026), with real constraints and penalties.
 
-So a naive "buy a nice apartment and put it on Airbnb" plan can be illegal depending on the route. Resolving that into a legal, economically sound structure is the firm's central task — and it shapes every agent's instructions.
+So a naive "buy a nice apartment and put it on Airbnb" plan can be illegal depending on the route. Making that trade-off **explicit and quantified** is the firm's central task — and it shapes every agent's instructions. The **home comes first** and rental income is a **strong preference, not a hard rule**: a standout home that cannot legally be let stays on the table, evaluated as a home-plus-capital-appreciation play against the rentable alternatives, so the couple can weigh the forgone income against the better home.
 
 ## How the company works
 
@@ -78,7 +78,7 @@ Custom skills in `skills/`, each grounded in 2026 Malta reference facts (to be r
 
 ## The deliverable
 
-A single **Malta Relocation & Property Investment Strategy** memo: a recommended shortlist of strategies (locality + property type + ownership route), each costed like-for-like, with a ranked recommendation, a risk register, and a step-by-step action plan from offer to keys-in-hand.
+A single **Malta Relocation & Property Investment Strategy** memo: a recommended shortlist of strategies (locality + property type + ownership route) spanning both dual-purpose (home + income) and standout home-only (home + capital appreciation) options, each costed like-for-like, with a ranked recommendation, a risk register, and a step-by-step action plan from offer to keys-in-hand.
 
 ## Importing into Paperclip
 

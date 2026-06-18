@@ -24,7 +24,7 @@ Use this skill to assemble the firm's one deliverable.
 3. **Lead with the answer, then justify it.** Recommendation first; reasoning and numbers behind it.
 
 ## Output
-A single polished memo (markdown) that a non-specialist couple can read and act on, satisfying both goals and the budget — or honestly explaining any trade-off.
+A single polished memo (markdown) that a non-specialist couple can read and act on. It puts the home first and treats income as a strong preference: the recommendation may be a dual-purpose property or a standout home-only property, and where income is forgone the memo states plainly what is given up and why the home justifies it. The shortlist keeps both a strong rentable option and, where one exists, a standout home-only option in view.
 
 ## Caveats
 The memo is decision support, not professional financial, tax, or legal advice; it must point the couple to qualified Maltese professionals for final confirmation.
