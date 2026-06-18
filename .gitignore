@@ -1,0 +1,15 @@
+# Paperclip runtime / local artifacts
+.paperclip/
+.cache/
+*.log
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Generated reports & working outputs (the agents write these at runtime)
+/outputs/
+/reports/
+*.local.md
