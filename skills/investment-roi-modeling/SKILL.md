@@ -20,7 +20,7 @@ Use this skill to make competing strategies comparable on one page.
 3. **Respect legality.** If Legal flags a candidate as no-let (AIP residence), set its rental line to zero — it competes as a home-plus-capital play only.
 4. **Structural comparison.** Model the strategic options side by side:
    - **Single dual-purpose property** (live in it; let it when away — only if licensable/legal).
-   - **Live-one / let-one** (e.g. an SDA unit let for income while the couple live in a residence) within the €700k envelope.
+   - **Live-one / let-one** (e.g. an SDA unit let for income while the client lives in a residence) within the client's budget envelope.
    - **Buy now vs rent-first-then-buy** to time the market and learn the localities.
 5. **Downside case.** Re-run base assumptions under higher rates, lower occupancy, and flat prices.
 

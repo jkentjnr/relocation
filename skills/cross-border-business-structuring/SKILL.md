@@ -5,10 +5,10 @@ description: Work through how to structure and operate an Australian company whi
 
 # Cross-Border Business Structuring (Australia ↔ Malta)
 
-Use this skill when a foreign owner-operator (here: an Australian, also British, husband) wants to run an Australian company from Malta and needs the structure to be tax-efficient and compliant in *both* countries.
+Use this skill when the engagement brief shows a client who is a foreign owner-operator of an **Australian company** and wants to run it from Malta with a structure that is tax-efficient and compliant in *both* countries.
 
 ## When to use
-- Any question about operating the Australian business from Malta, or the couple's overall tax footprint.
+- Any question about operating the client's Australian business from Malta, or the client's overall tax footprint.
 
 ## Method
 
@@ -24,7 +24,7 @@ Use this skill when a foreign owner-operator (here: an Australian, also British,
 - Note the treaty's shorter construction-PE threshold (183 days) if relevant.
 
 ### 3. Lay out the realistic options
-1. **Keep it Australian, minimise Maltese footprint.** Hard if the husband physically works from Malta — substance of decision-making sits in Malta, so a Maltese PE/residence is likely. Often the *highest-risk* "do nothing" path.
+1. **Keep it Australian, minimise Maltese footprint.** Hard if the owner physically works from Malta — substance of decision-making sits in Malta, so a Maltese PE/residence is likely. Often the *highest-risk* "do nothing" path.
 2. **Build Maltese substance / a Maltese company.** A Malta trading company is taxed at 35% but the **6/7ths shareholder refund** brings the **effective rate to ~5%** on trading income (**5/7ths → ~10%** on passive interest/royalties). Requires genuine substance (office, decision-making, people) and careful migration of the Australian business.
 3. **Hybrid.** Maltese operating company for work performed from Malta; the Australian company retained/wound down for genuinely Australian-source activity. Mind transfer pricing between them.
 
@@ -39,7 +39,7 @@ Use this skill when a foreign owner-operator (here: an Australian, also British,
 - Malta **economic-substance** expectations — a paper structure with no real activity fails.
 
 ## Output
-A structuring assessment: the current dual-exposure diagnosis, the options with their effective tax cost and compliance burden, a recommended structure, the implementation steps, and the timing interaction with the move, the wife's citizenship, and the Australian exit-CGT event.
+A structuring assessment: the current dual-exposure diagnosis, the options with their effective tax cost and compliance burden, a recommended structure, the implementation steps, and the timing interaction with the move, any citizenship/residency change noted in the brief, and the Australian exit-CGT event.
 
 ## Caveats
 This is research-grade guidance, **not** tax advice. Cross-border structuring is fact-specific and changes with law and practice — it **must** be confirmed by a **Maltese tax advisor and an Australian tax advisor jointly** before implementation. All rates, thresholds, and treaty points are 2026 reference points to be re-verified.

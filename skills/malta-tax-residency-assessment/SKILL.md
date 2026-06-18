@@ -8,19 +8,19 @@ description: Map the Malta tax and residency consequences of buying and letting 
 Use this skill to quantify the tax layer of each candidate strategy.
 
 ## When to use
-- For any candidate that the couple might buy and/or let, and whenever residency status changes the picture.
+- For any candidate that the client might buy and/or let, and whenever residency status changes the picture.
 
 ## Method
 1. **Acquisition stamp duty.** Standard residential rate is ~5% of value. A reduced rate applies to the first €200,000 when buying one's sole residence, and first-time-buyer relief can exempt duty on the first €200,000 — but relief is tied to the property being a residence, so it interacts with the rental plan. Quantify duty for each candidate explicitly.
 2. **Rental income tax.** Present both routes: the flat final-tax option on gross rents vs. inclusion in chargeable income at progressive rates with deductions. Show which is better for the candidate.
 3. **Tax on a future sale.** Note Malta's property transfer (final withholding) tax regime so the exit is costed, not ignored.
 4. **Ongoing taxes/charges.** Capture any recurring property-related taxes and ground rent/condominium implications.
-5. **Residency interaction.** Explain how ordinary residence or a residency programme interacts with the purchase and with the couple's worldwide-vs-remittance tax position.
-6. **Citizenship & status pathway (decisive here).** Map the couple's status over time, because it changes both the acquisition route and the residency basis:
-   - Both are Australian; the husband is also British, but post-Brexit that is a **third-country** status for Maltese purposes — not EU.
-   - The wife is acquiring **Maltese (EU) citizenship by descent** (mother is the living link; in progress). Once registered, she is an EU citizen, the couple's primary residence escapes AIP, and the husband gains **family-member residence rights** as the spouse of an EU citizen.
+5. **Residency interaction.** Explain how ordinary residence or a residency programme interacts with the purchase and with the client's worldwide-vs-remittance tax position.
+6. **Citizenship & status pathway.** Read the client's status from the engagement brief and map it over time, because it changes both the acquisition route and the residency basis:
+   - A **third-country national** (non-EU citizens, including post-Brexit British) has third-country status for Maltese purposes — the AIP-or-SDA regime.
+   - A client **acquiring EU/Maltese citizenship** (e.g. by descent) becomes, once registered, an EU citizen whose primary residence escapes AIP; a third-country-national **spouse of an EU/Maltese citizen** gains **family-member residence rights**.
    - After **5 years' continuous Maltese residence**, a Maltese citizen may acquire freely for any purpose, including letting — note this as the long-game unlock for rental on any property.
-   - Flag the **descent-link deadline** (qualifying parent alive on 1 Aug 2007 dying after 1 Aug 2028 without registering can break the line) as an urgent dependency for specialist **citizenship counsel** — it is outside this firm's remit but gates the favourable property regime. Do not attempt to give citizenship-law advice; flag and refer.
+   - Flag any **citizenship/registration deadline** noted in the brief (e.g. a descent-link cut-off) as an urgent dependency for specialist **citizenship counsel** — outside this firm's remit but it can gate the favourable property regime. Do not attempt to give citizenship-law advice; flag and refer.
 
 ## 2026 reference points (re-verify at runtime)
 - Standard residential stamp duty ~5%; reduced/relief treatment on the first €200,000 for a residence / first-time buyers.

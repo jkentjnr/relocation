@@ -16,8 +16,8 @@ Use this skill to narrow "somewhere in Malta" down to a defensible shortlist of 
    - **Established residential belt** — Swieqi, San Ġwann, Attard, Lija, Balzan, Mosta: family-friendly, good value, steady demand.
    - **North** — Mellieħa, St Paul's Bay / Buġibba, Qawra: lower €/m², strong seasonal short-let demand.
    - **Gozo** — quieter lifestyle, lower prices, distinct (ferry-dependent) market.
-2. **Score each on a common rubric:** price per m², long-let demand, short-let/tourism demand, livability for a couple, and **SDA availability** (does the area contain Special Designated Area developments?).
-3. **Apply the dual mandate.** Reward areas that are both genuinely livable for the couple *and* have real rental demand.
+2. **Score each on a common rubric:** price per m², long-let demand, short-let/tourism demand, livability for a client, and **SDA availability** (does the area contain Special Designated Area developments?).
+3. **Apply the dual mandate.** Reward areas that are both genuinely livable for the client *and* have real rental demand.
 4. **Shortlist** 3–5 localities worth full modelling, with the rationale and the trade-off each represents.
 
 ## Key decision flag
@@ -25,6 +25,9 @@ Mark which candidate areas contain **SDA developments**. Under the AIP regime a 
 
 ## Output
 A scored comparison table plus a shortlist with one-line rationales and the trade-off (e.g. "Sliema: best demand, worst yield, no AIP issue if SDA").
+
+## Sources
+Source listings and locality data from the agencies and portals in `references/malta-property-sources.md`.
 
 ## Caveats
 Demand and price differ block-by-block within a town; treat locality scores as a filter, not a final answer.

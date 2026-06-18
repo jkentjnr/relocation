@@ -29,5 +29,8 @@ Use this skill to turn a purchase price and an area into a credible income estim
 ## Output
 Per candidate: achievable rent, gross yield, net yield, and the assumption set, for both long-let and short-let — with short-let flagged valid only if licensable.
 
+## Sources
+Pull rents, nightly rates, and occupancy signals from the rental portals and short-let sources in `references/malta-property-sources.md`.
+
 ## Caveats
 Short-let returns are highly sensitive to occupancy and the 2026 regulatory stack; model conservatively and never present a gross figure as if it were net.

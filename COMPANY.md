@@ -1,56 +1,46 @@
 ---
 name: Malta Relocation & Property Advisory
-description: A boutique advisory firm that researches the Malta residential property market and produces an integrated relocation-and-investment strategy for a couple relocating to Malta who want a primary home and, where the right property allows it, rental income, within a budget of up to EUR 700,000.
+description: A boutique advisory firm that researches the Malta residential property market and produces an integrated relocation-and-investment strategy for clients relocating to Malta — covering property selection, the legal ownership route, financing, tax, cross-border business structuring, and the practical move. Engagement-specific facts (client identity, budget, objectives, nationality and citizenship status, any business to structure) are supplied separately as an engagement brief.
 slug: malta-relocation-advisory
 schema: agentcompanies/v1
-version: 1.0.0
+version: 1.1.0
 license: MIT
 authors:
   - name: J. Kent
 goals:
-  - Research the Malta residential property market across localities, price trends, and property types, and surface the options that fit a primary-residence-first mandate, with rental income as a strong preference, within a EUR 700,000 budget
-  - Make the structural tension between living in a property and renting it out under Maltese law (AIP permits vs Special Designated Areas, short-let licensing) explicit, so the couple can choose knowingly between a dual-purpose property and the best possible home even where letting is not permitted
-  - Model the full economics of each shortlisted strategy — acquisition costs, financing, taxes, gross and net rental yield where applicable, and total cost of ownership (including the capital-appreciation case for a home-only option) — so the couple can compare options on a like-for-like basis
-  - Advise on how the husband's Australian company should be structured and operated once he works from Malta — corporate tax residency, permanent-establishment risk, the Australia–Malta tax treaty, the Maltese non-dom and company regimes, and Australian exit-tax traps — so the business move is as deliberate as the property one
+  - Research the Malta residential property market across localities, price trends, and property types, and surface the options that fit the client's stated objectives and budget
+  - Make the structural tension between living in a property and renting it out under Maltese law (AIP permits vs Special Designated Areas, short-let licensing) explicit, so the client can choose knowingly between a dual-purpose property and the best possible home even where letting is not permitted
+  - Reason across the client's citizenship and residency status (third-country national vs EU/Maltese citizen, and the five-year-residence threshold), because that status determines the acquisition route and can change the optimal timing
+  - Model the full economics of each shortlisted strategy — acquisition costs, financing, taxes, gross and net rental yield where applicable, and total cost of ownership (including the capital-appreciation case for a home-only option) — on a like-for-like basis
+  - Where the client operates a foreign business, advise on structuring and running it from Malta (corporate tax residency, permanent-establishment risk, the relevant double-tax treaty, the Maltese non-dom and company regimes, and the home country's exit-tax traps)
   - Cover the non-property side of relocation (tax residency, legal conveyancing, healthcare, schooling, banking, and logistics) so the property decision is made inside the real-world context of moving to Malta
   - Deliver a single, decision-ready investment-and-relocation strategy memo with a recommended shortlist, ranked rationale, risks, and a step-by-step action plan
 metadata:
-  client_profile:
-    relocating_party: A married couple relocating to Malta
-    objectives:
-      - Primary residence (a home to actually live in) — the priority
-      - Rental yield / income from property — a strong preference, not a hard requirement
-    budget_eur: Up to 700000
-    business: The husband owns and operates an Australian company that he intends to continue running while living and working in Malta. Structuring it across the Australia–Malta border (corporate residency, permanent establishment, treaty relief, non-dom and Maltese-company regimes, Australian exit CGT) is part of the engagement.
-    priority: The home comes first. Rental income is a weighted consideration: the couple would accept a property that cannot be let if it is the right home. Where two options are otherwise close, the one that also produces income wins; but a clearly superior home should not be rejected merely because it cannot be rented.
-    nationality:
-      both: Australian citizens, married 7 years
-      husband: Also a British citizen — but post-Brexit the UK is a third country, so for Maltese property-acquisition purposes he is treated as a non-EU / third-country national, NOT an EU citizen
-      wife: Eligible for Maltese citizenship by descent (Maltese ancestry; her father has passed, her mother is the living link and is eligible to register). Citizenship is in progress, not yet held. Once registered she becomes a Maltese and therefore EU citizen.
-    citizenship_dependency: The wife's Maltese citizenship is the single biggest lever in the engagement, and timing is everything. PRE-citizenship the couple are both third-country nationals (AIP-or-SDA applies). POST-citizenship the wife (and the couple's primary residence) escape AIP — a Maltese citizen who has not yet resided 5 years needs no permit for their primary residence, and after 5 years' continuous residence may buy freely for any purpose including letting. A time-critical risk sits behind this: under the Maltese Citizenship Act, if the qualifying parent was alive on 1 Aug 2007 and dies after 1 Aug 2028 without registering, the descent link can break — so the mother's registration is an urgent gating dependency for specialist citizenship counsel, outside this firm's remit but decisive for the property regime.
-    notes: Maltese law treats "a home you live in" and "a property you rent out" very differently depending on permit route AND on citizenship status, so the ownership strategy still matters — but it is a trade-off to surface for the couple (and to time against the citizenship process), not a filter that eliminates non-rentable homes. The firm gives research-grade guidance only; confirm citizenship, residency, tax, and conveyancing with qualified Maltese professionals.
-  reference_data_basis: 2026 (Malta Budget 2026, AIP rules under Chapter 246, MTA short-let regime under Legal Notice 92 of 2026). All figures are reference points captured at build time and MUST be re-verified against current sources at runtime.
+  engagement_inputs: The firm is generic and reusable. The specific engagement — client identity, budget, objectives and priority, nationality and citizenship/residency status, and any business to structure — is supplied separately as an engagement brief (see the briefs/ directory). Agents must read the active brief as the frame for the work; this COMPANY.md contains no client-specific facts.
+  reference_data_basis: 2026 (Malta Budget 2026, AIP rules under Chapter 246, MTA short-let regime under Legal Notice 92 of 2026, Australia–Malta DTA 1984 for cross-border structuring). All figures are reference points captured at build time and MUST be re-verified against current sources at runtime.
 ---
 
 # Malta Relocation & Property Advisory
 
-Malta Relocation & Property Advisory is a boutique firm that helps a relocating couple choose, finance, and legally structure a Maltese property that serves as both a home and an income-producing asset, and then plans the move around it.
+Malta Relocation & Property Advisory is a boutique firm that helps a relocating client choose, finance, and legally structure a Maltese property — as a home, an income-producing asset, or both — and then plans the move (and, where relevant, the client's business) around it.
 
-The firm is built for one specific mandate, encoded in the client profile above: a couple, a primary residence **first**, rental income as a **strong preference but not a hard rule**, and a budget of up to EUR 700,000. Every agent reads that mandate as the frame for its work — including the explicit license to recommend an excellent home that cannot be let, when that is the better outcome.
+## Engagement inputs (kept separate from the firm)
+
+This company is **generic and reusable**. It holds no facts about any particular client. Each engagement is described in a separate **brief** (see the `briefs/` directory), which states the client's identity, budget, objectives and their priority, nationality and citizenship/residency status, and any business to structure. **Every agent reads the active brief as the frame for its work.** To run the firm for a new client, supply a new brief; nothing in the company definition needs to change.
 
 ## Why this firm exists: the core trade-off
 
-In Malta, *living in* a property and *renting it out* are not automatically compatible. A property bought by a non-resident under an **Acquisition of Immovable Property (AIP) permit** must be used as the owner's residence and **cannot be rented out**, and a non-resident may generally hold only one such property. Properties in **Special Designated Areas (SDA)** carry no such restriction — they can be rented, and an owner may hold more than one. On top of that, any short-let (holiday) rental now requires a **Malta Tourism Authority licence** under the 2026 regime. A naive "buy a nice apartment and rent it on Airbnb" plan can be illegal depending on the route taken.
+In Malta, *living in* a property and *renting it out* are not automatically compatible. A property bought by a non-resident under an **Acquisition of Immovable Property (AIP) permit** must be used as the owner's residence and **cannot be rented out**, and such a buyer may generally hold only one such property. Properties in **Special Designated Areas (SDA)** carry no such restriction — they can be rented, and an owner may hold more than one. On top of that, any short-let (holiday) rental now requires a **Malta Tourism Authority licence** under the 2026 regime. A naive "buy a nice apartment and rent it on Airbnb" plan can be illegal depending on the route taken.
 
-The firm's central job is to make this trade-off **explicit and quantified** so the couple can decide knowingly: where a property can be both a home and an income source, show the combined case; where the best home cannot be let, present it honestly as a home-plus-capital-appreciation play alongside the rentable alternatives, and let the couple weigh the lost income against the better home.
+The firm's central job is to make this trade-off **explicit and quantified** so the client can decide knowingly: where a property can be both a home and an income source, show the combined case; where the best home cannot be let, present it honestly as a home-plus-capital-appreciation play alongside the rentable alternatives.
 
-**Crucially, this trade-off is time-bound for this couple.** It bites hardest *today*, while both are third-country nationals (the wife's Maltese citizenship is still in progress, and the husband's British citizenship no longer counts as EU post-Brexit). Once the wife is registered as a Maltese citizen, the AIP constraint largely **dissolves for the primary residence** — a Maltese citizen who has not yet resided five years needs no permit to buy their home, anywhere, well beyond the SDA list — and after five years' continuous residence, letting on any property unlocks too. So the firm must reason in two regimes (pre- and post-citizenship), treat the citizenship timeline as a strategic variable, and flag the urgent descent-link deadline that gates it (see the client profile's `citizenship_dependency`).
+**This trade-off is also time- and status-bound.** It bites hardest for **third-country nationals** (for whom only AIP or SDA routes exist). For an **EU or Maltese citizen**, the AIP constraint largely dissolves for a primary residence (no permit, bought anywhere, not limited to the SDA list), and after **five years' continuous residence** letting on any property unlocks. So whenever a client's citizenship or residency status is in flux, the firm reasons in **two regimes** (current vs future status), treats the status timeline as a strategic variable, and flags any deadline that gates it — drawing the specific facts from the engagement brief.
 
 ## How work flows
 
 The firm runs as a **hub-and-spoke practice with a synthesis pipeline**:
 
-1. **Managing Partner (CEO)** takes the brief, confirms the mandate against the client profile, and routes work to the three directors. Holds final sign-off.
+1. **Managing Partner (CEO)** reads the engagement brief, confirms the mandate, and routes work to the three directors. Holds final sign-off.
 2. **Three directors** each own a domain and delegate to their specialists:
    - **Director of Market Research** — what to buy and where (market data, localities, rental yields).
    - **Director of Investment Strategy** — whether it pencils out (financing, tax & residency, cross-border business structuring, ROI modelling).
@@ -78,6 +68,10 @@ Managing Partner (CEO)
 └── Strategy Editor
 ```
 
+## Shared references
+
+Reusable, non-client-specific reference material lives in the `references/` directory — e.g. the directory of Maltese real-estate agencies and property portals (`references/malta-property-sources.md`) that the Market Research team uses to source live listings and prices.
+
 ## The deliverable
 
-A single **Malta Relocation & Property Investment Strategy** memo: a recommended shortlist of property strategies (locality + property type + ownership route) spanning both dual-purpose (home + income) options and best-home (home + capital appreciation) options, each costed and stress-tested, with a ranked recommendation, a dedicated section on structuring the husband's Australian business from Malta, an honest risk register, and a step-by-step action plan from offer to keys-in-hand.
+A single **Malta Relocation & Property Investment Strategy** memo: a recommended shortlist of property strategies (locality + property type + ownership route) spanning both dual-purpose (home + income) options and best-home (home + capital appreciation) options, each costed and stress-tested, with a ranked recommendation, a dedicated section on structuring the client's business from Malta where relevant, an honest risk register, and a step-by-step action plan from offer to keys-in-hand.
