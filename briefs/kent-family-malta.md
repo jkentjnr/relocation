@@ -1,4 +1,4 @@
-[# Engagement Brief — Kent family, relocation to Malta
+# Engagement Brief — Kent family, relocation to Malta
 
 ## The task
 
