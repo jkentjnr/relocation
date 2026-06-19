@@ -1,6 +1,4 @@
-# Engagement Brief — Kent family, relocation to Malta
-
-> This is the **engagement prompt** for the *Malta Relocation & Property Advisory* company. It holds all client-specific facts. The company definition (`COMPANY.md`, `agents/`, `skills/`) is generic and contains none of this — to run the firm, feed it this brief. Keep this file private (it can be git-ignored if you prefer it not committed).
+[# Engagement Brief — Kent family, relocation to Malta
 
 ## The task
 
@@ -9,18 +7,24 @@ Act as the Malta Relocation & Property Advisory firm and produce a decision-read
 ## Client
 
 - A **married couple** (married 7 years) relocating to Malta.
+  - James Kent (46yr old male)
+  - Vicki Ojo (44 yr old female)
 - Both are **Australian citizens**.
 - The **husband is also a British citizen** — but post-Brexit the UK is a third country, so for Maltese property-acquisition purposes he is a **non-EU / third-country national**, not an EU citizen.
 - The **wife is acquiring Maltese (EU) citizenship by descent**: she has Maltese ancestry; her father has passed, and her **mother is the living link and is eligible to register**. Citizenship is **in progress, not yet held**. Once registered, the wife becomes a Maltese and therefore EU citizen.
 
+Work on the basis the wife has Maltese citizenship.
+
 ## Objectives & priority
 
-- **Primary residence (a home to actually live in) — the priority.**
-- **Rental income from property — a strong preference, not a hard requirement.** The couple would accept a property that cannot be let if it is the right home. Where two options are otherwise close, the one that also produces income wins; but a clearly superior home should not be rejected merely because it cannot be rented.
+- **Primary residence (a home to actually live in) is the end goal.**
+- **Rental income from property is important.**
+
+The couple's children finish school in 3.5 years.  At this point, they would start to relocate to Malta.
 
 ## Budget
 
-- Up to **EUR 700,000** of property value.
+- Up to **EUR 1,000,000** of property value.
 
 ## Citizenship dependency (decisive — and time-critical)
 
@@ -34,8 +38,10 @@ The wife's Maltese citizenship is the single biggest lever in the engagement, an
 
 - The **husband owns and operates an Australian company** that he intends to continue running while living and working in Malta.
 - Advise on structuring it across the Australia–Malta border: corporate tax residency, permanent-establishment risk, the **Australia–Malta double-tax treaty (1984)**, the Maltese **non-dom** and **company (6/7ths refund)** regimes, and Australian **exit-CGT** traps. Time the business restructure against the move and the wife's citizenship.
-- *(Detail to confirm with the client and weave in: what the company does — services vs product/IP vs trading — and its revenue scale, as these drive the PSI/CFC/substance analysis.)*
+
+The company is MoveData.io -- a Salesforce data integration tool.  It earns revenue via subscriptions and has around $1M AUD in ARR.
 
 ## Notes
 
 Maltese law treats "a home you live in" and "a property you rent out" very differently depending on permit route **and** citizenship status, so the ownership strategy is a trade-off to surface (and to time against the citizenship process), not a filter that eliminates non-rentable homes. The firm gives research-grade guidance only; confirm citizenship, residency, tax, conveyancing, and cross-border structuring with qualified Maltese (and Australian) professionals.
+](https://github.com/jkentjnr/relocation)
