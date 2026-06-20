@@ -1,5 +1,5 @@
 # Malta Property Shortlist — Five Properties Per Area
-**Prepared for the Kent Family | June 2026 | MAL-10 (Revised)**
+**Prepared for the Kent Family | June 2026 | MAL-10 (Revised — includes Valletta)**
 
 > **Budget context:** €1,000,000 total acquisition envelope (cash purchase post-MoveData exit). For each area, three properties are presented within budget and two are aspirational stretches. Negotiation estimates assume a cash buyer with proof of funds — typically 5–8% below asking on properties that have been on the market 3+ months, less on recently listed or prime-location stock. UCA stamp-duty relief (0% on first €750k, 1.5% on next €200k) is flagged where it applies.
 
@@ -407,4 +407,105 @@ A contemporary top-floor penthouse steps from the water's edge on the Marsascala
 
 ---
 
-*Sources: Frank Salt Real Estate · Property Giant · Dhalia Real Estate · Sensara Malta · Benestates · Arcus Estates · The Elite · Zanzi Homes · Malta Sotheby's International Realty · Malta Property (maltaproperty.com) · Malta Property Hunt (maltapropertyhunt.com). All prices and listing details verified June 2026; listings subject to change. Confirm availability, UCA status, and current pricing directly with the listed agent before proceeding. Facebook Marketplace listings marked as such are agent-originated listings republished on that platform — contact via the agency directly for formal viewings.*
+## VALLETTA
+
+> **Note on property type:** Valletta is a UNESCO World Heritage city and Malta's capital — the smallest capital city in the EU by area. The market here runs from compact modern apartments at €400–550k to grand baroque palazzi at €2–21M. Within the €1M budget, buyers access contemporary 2–3 bedroom apartments in historic buildings; the aspirational bracket unlocks untouched grand townhouses and restored Knights-era palazzi. Character homes in the traditional sense (unconverted HoC in UCA) do exist but are rare and price into the €2M+ range given the prestige of the address.
+
+### Area Introduction
+
+Valletta is unlike anywhere else on the shortlist — a fortified baroque city on a peninsula, built by the Knights of St John after the Great Siege of 1565, with a street grid so ordered that UNESCO inscribed the entire walled city as a World Heritage Site. Every street is a gallery: a cannon-ball frieze above a doorway, a carved escutcheon on a palazzo corner, a traditional Maltese gallarija balcony painted in deep green or maroon. Within ten minutes on foot a resident can reach the National Museum of Archaeology, the Upper Barrakka Gardens (with the Grand Harbour panorama), half a dozen good restaurants, and the Valletta City Gate bus terminus connecting to the whole island.
+
+The residential property market has transformed in the past decade — the Renzo Piano City Gate project, the Valletta 2018 Capital of Culture year, and sustained government investment in restoration have drawn international buyers who a generation ago would have looked only at the Three Villages or St Julian's. The result is a bifurcated market: compact modern apartments in refurbished buildings at €400k–€1M, and a rarefied upper tier of palazzi and grand townhouses starting at €2M. For a family from outside the EU, non-SDA status and the AIP/citizenship pathway apply as elsewhere; there is no SDA zone in Valletta proper. The city's size (0.8km²) means no car is needed day-to-day — parking is managed and limited, and residents walk everywhere.
+
+### Within Budget
+
+---
+
+#### V1. Valletta — 3-Bed Apartment, 4th Floor, Roof Access | €565,000
+
+**Type:** Apartment (freehold)  
+**Bedrooms:** 3 | **Bathrooms:** 1  
+**Floor:** 4th  
+**Outdoor:** Roof access (own use)  
+**Listing:** [Property Malta — Valletta Flat](https://propertymalta.mt/property/flats-in-valletta-23/)
+
+A freehold three-bedroom apartment on the fourth floor of a Valletta building with lift access, located in a UCA zone. Separate kitchen, dining area and bathroom. The roof access gives an outdoor terrace option at the top of the building — one of the most practical outdoor amenities available in Valletta's compact building stock. Suitable for residential occupation or rental investment.
+
+**Negotiation:** At €565,000 this is the most affordable option with three bedrooms in Valletta. A 5% cash-buyer reduction lands at **~€537,000** — well inside the budget envelope. The UCA designation means stamp-duty relief applies. The single bathroom is the main limitation; budget for an en-suite conversion in the master (~€15k).
+
+> Best entry-level value in Valletta with genuine bedroom count. Trade-off: one bathroom and no sea view.
+
+---
+
+#### V2. Valletta — 2-Bed Apartment, Sea Views, Maltese Balcony + Rooftop | €945,000
+
+**Type:** Apartment (characterful, conversion potential)  
+**Bedrooms:** 2 | **Bathrooms:** Not specified  
+**Outdoor:** Traditional Maltese gallarija balcony, rooftop access  
+**Views:** Unobstructed sea views  
+**Listing:** [Perry — FA702131](https://www.perry.com.mt/malta-property/sales/valletta/FA702131/)
+
+A characterful two-bedroom residence in Valletta featuring traditional architectural elements including a classic gallarija balcony (the iconic Maltese enclosed wooden balcony), multiple entry points, and rooftop access with sea views. The adaptable configuration enables conversion into separate rental units — an unusual dual-use option. Natural illumination noted as a feature, pointing to an upper-floor position with open aspects.
+
+**Negotiation:** At €945,000 a 5% reduction lands at **~€898,000**. UCA stamp-duty relief likely (confirm on title). The sea views and Maltese balcony are premium features that hold value — discount expectations should be modest (3–5% rather than 7–8%).
+
+---
+
+#### V3. Valletta — 2-Bed Apartment, 104m², Modern Finish | €950,000
+
+**Type:** Apartment (contemporary conversion)  
+**Bedrooms:** 2 | **Bathrooms:** 2  
+**Size:** 104 m² | **Outdoor:** Front balcony  
+**Listing:** [Benestates — BSAPT281409](https://benestates.com/property/for-sale-apartment-in-valletta-central-BSAPT281409/)
+
+An upscale 104m² residence in Valletta with contemporary finishes and a welcoming entrance hall opening to a spacious combined kitchen/living/dining area. Two bedrooms, two bathrooms, lift access. The front balcony provides street-level engagement with Valletta's historic streetscape. Benestates spec typically means high-quality fixtures and ready-to-occupy condition.
+
+**Negotiation:** At €950,000 — right at the budget ceiling — a 3–5% negotiation (recently listed, tight margin) brings the **realistic close to ~€903,000–€922,000**. Add stamp duty (~€3,750 at UCA rates if applicable) and notary costs (~€15k): all-in approximately **€922,000–€941,000**. Slim but workable within the €1M envelope.
+
+---
+
+### Aspirational
+
+---
+
+#### V4. Valletta — 3-Bed Apartment, 128m², High Ceilings + Games Room | €1,300,000
+
+**Type:** Apartment (contemporary, high-specification)  
+**Bedrooms:** 3 | **Bathrooms:** 3  
+**Size:** 128 m² | **Outdoor:** Balcony  
+**Listing:** [Benestates — BSAPT281411](https://benestates.com/property/for-sale-apartment-in-valletta-central-BSAPT281411/)
+
+A three-bedroom, three-bathroom apartment in Valletta featuring high ceilings (a hallmark of the better conversions in older buildings), a dedicated games room, and a contemporary finish with bathrooms and internal doors already installed. Entrance hall, combined kitchen/living/dining space, and lift access. At 128m² this is a generous footprint for Valletta; the three-bedroom, three-bathroom count suits family use and guest accommodation.
+
+**Negotiation:** At €1,300,000 — 30% above the nominal budget — a 4–5% reduction lands at **~€1.23–1.25M**. Premium Benestates stock in Valletta typically moves within 3–5% of asking; extended time on market sometimes allows larger discounts. Worth opening at 7% below.
+
+---
+
+#### V5. Valletta — Baroque Palazzo, 475m², Harbour View Roof Terrace | €2,950,000
+
+**Type:** Palazzo / House of Character (double-fronted, restored)  
+**Bedrooms:** 4 | **Bathrooms:** 3  
+**Size:** 475 m² | **Outdoor:** Spectacular roof terrace (harbour + Fort St Angelo views), private courtyard  
+**Listing:** [Perry — HC700469](https://www.perry.com.mt/malta-property/sales/valletta/HC700469/)
+
+A double-fronted baroque palazzo constructed in 1786 during the era of the Knights of Malta, spanning four floors with lift access and an original wine cellar. The property merges traditional grandeur with modern amenities: a welcoming entry hall, four spacious bedrooms, three bathrooms, and multipurpose rooms. The roof terrace overlooks the Grand Harbour, Fort St Angelo, and the Three Cities — arguably Malta's finest panoramic residential view. A prestigious Valletta street address near dining, shopping and cultural venues. Fully restored.
+
+**Negotiation:** At €2,950,000 — nearly three times the nominal budget — this is the ultimate aspirational Valletta property. Perry mandates rarely allow more than 3–5% negotiation: **realistic target €2.8–2.85M**. For the right buyer, the 1786 date, harbour views and 475m² floor plan justify the premium. This is the kind of Valletta address that holds value regardless of market cycles.
+
+> Also note: Perry list a separate **unconverted 9-room palazzo on one of Valletta's finest streets** at €2,250,000 ([Ref HC700411](https://www.perry.com.mt/malta-property/sales/valletta/HC700411/)) for buyers who want to design their own conversion. A blank canvas at a €700k discount to the restored palazzo above.
+
+---
+
+### Valletta Summary
+
+| Ref | Property | Asking | Negotiated est. | Status |
+|-----|----------|--------|-----------------|--------|
+| V1 | 3-bed apartment, 4th floor, roof access | €565,000 | ~€537k | Within budget |
+| V2 | 2-bed apartment, sea views, gallarija balcony | €945,000 | ~€898k | Within budget |
+| V3 | 2-bed apartment, 104m², modern finish | €950,000 | ~€903–922k all-in | Within budget |
+| V4 | 3-bed apartment, 128m², high ceilings + games room | €1,300,000 | ~€1.23–1.25M | Aspirational |
+| V5 | Baroque palazzo, 475m², 1786, harbour views | €2,950,000 | ~€2.80–2.85M | Aspirational |
+
+---
+
+*Sources: Frank Salt Real Estate · Property Giant · Dhalia Real Estate · Sensara Malta · Benestates · Arcus Estates · The Elite · Zanzi Homes · Malta Sotheby's International Realty · Perry Real Estate · Bernards Real Estate · Malta Property (maltaproperty.com) · Malta Property Hunt (maltapropertyhunt.com). All prices and listing details verified June 2026; listings subject to change. Confirm availability, UCA status, and current pricing directly with the listed agent before proceeding. Facebook Marketplace listings marked as such are agent-originated listings republished on that platform — contact via the agency directly for formal viewings.*
