@@ -18,6 +18,7 @@ folder; cross-document links have been rewritten to resolve within this folder.
 5. **[Settlement & Logistics — Sequenced Checklist & Timeline](./settlement-logistics-checklist-2026-06.md)** — MAL-4. Move sequencing toward the ~2029 trigger.
 6. **[Investment Strategy — Like-for-Like Costing & Ranking](./investment-costing-and-ranking-2026-06.md)** — MAL-5. Whether it pencils out: cash vs mortgage, after tax.
 7. **[Malta Relocation & Property Investment Strategy — Revised](./malta-strategy-memo-2026-06-revised.md)** — MAL-6. **The decision-ready synthesis. Start here for the recommendation.**
+8. **[Tax Effectiveness — Company Structuring from Malta](./tax-effectiveness-company-structuring-2026-06.md)** — MAL-12. Three-scenario comparison: Australian company, Singapore company, and Maltese company — effective rates, PE risk, and the recommended structure for James as a Malta-based operator.
 
 ## Document → issue map
 
@@ -33,6 +34,7 @@ folder; cross-document links have been rewritten to resolve within this folder.
 | [malta-strategy-memo-2026-06-revised.md](./malta-strategy-memo-2026-06-revised.md) | [MAL-6](/MAL/issues/MAL-6) | **Current — the final memo** |
 | [malta-strategy-memo-2026-06.md](./malta-strategy-memo-2026-06.md) | [MAL-6](/MAL/issues/MAL-6) | **Superseded** (18 June) — retained for the record; do not act on it |
 | [kent-family-discovery-questions.md](./kent-family-discovery-questions.md) | MAL-1 (discovery) | Pre-existing in this folder |
+| [tax-effectiveness-company-structuring-2026-06.md](./tax-effectiveness-company-structuring-2026-06.md) | [MAL-12](/MAL/issues/MAL-12) | Current |
 
 ### Not included
 - **MAL-7** (International Tax & Structuring — MoveData AU exit-CGT): blocked behind mandate gate O4 (client opt-in); no deliverable produced yet. Will be added here once delivered.
