@@ -1,5 +1,5 @@
 # Malta Property Shortlist — Five Properties Per Area
-**Prepared for the Kent Family | June 2026 | MAL-10 (Revised — includes Valletta)**
+**Prepared for the Kent Family | June 2026 | MAL-10 (Revised — includes Valletta, Qawra and Naxxar)**
 
 > **Budget context:** €1,000,000 total acquisition envelope (cash purchase post-MoveData exit). For each area, three properties are presented within budget and two are aspirational stretches. Negotiation estimates assume a cash buyer with proof of funds — typically 5–8% below asking on properties that have been on the market 3+ months, less on recently listed or prime-location stock. UCA stamp-duty relief (0% on first €750k, 1.5% on next €200k) is flagged where it applies.
 
@@ -508,4 +508,203 @@ A double-fronted baroque palazzo constructed in 1786 during the era of the Knigh
 
 ---
 
-*Sources: Frank Salt Real Estate · Property Giant · Dhalia Real Estate · Sensara Malta · Benestates · Arcus Estates · The Elite · Zanzi Homes · Malta Sotheby's International Realty · Perry Real Estate · Bernards Real Estate · Malta Property (maltaproperty.com) · Malta Property Hunt (maltapropertyhunt.com). All prices and listing details verified June 2026; listings subject to change. Confirm availability, UCA status, and current pricing directly with the listed agent before proceeding. Facebook Marketplace listings marked as such are agent-originated listings republished on that platform — contact via the agency directly for formal viewings.*
+---
+
+## QAWRA
+
+> **Honest context:** The client noted they don't love Qawra as an area but wanted to see the market for comparison. This section is included on that basis — the price contrast with the character-home areas is striking, and the data is useful for calibrating expectations across the island.
+
+### Area Introduction
+
+Qawra occupies the western tip of the St Paul's Bay peninsula on Malta's north-west coast — a low-rise resort town built primarily around tourism and short-term letting. The seafront promenade connects Qawra point to Bugibba and Xemxija, and the Malta National Aquarium sits at the point itself. Day-to-day amenity is plentiful: supermarkets, pharmacies, restaurants and the bus terminus are walkable. What Qawra is not is a quiet residential village — it is a working resort with a seasonal population, high tourist footfall in summer, and an architectural character dominated by 1970s–1990s apartment blocks rather than limestone townhouses. The sea is close, the sunsets across St Paul's Bay are genuine, and the lifestyle is easy; but buyers seeking the character-home village experience described elsewhere in this shortlist will not find it here.
+
+The property market reflects the area's character. Qawra is among the most affordable coastal areas in Malta for residential property — three-bedroom apartments with sea proximity list at €360,000–€450,000, and the top of the residential market (large penthouses) reaches roughly €800,000. There are no houses of character or palazzi; there are no UCAs; stamp-duty relief at the lower rates does not apply. The area's primary appeal for non-resident buyers is rental yield: short-let returns in Qawra are among the island's highest given tourist demand, making it a natural investment play. As a primary family residence, however, it would represent a significant lifestyle trade-off relative to Siġġiewi, Rabat or Attard.
+
+### Within Budget
+
+---
+
+#### Q1. Qawra — 3-Bed Apartment, Balconies, Fully Furnished | €360,000
+
+**Type:** Apartment (freehold, 4th floor)  
+**Bedrooms:** 3 | **Bathrooms:** 2  
+**Outdoor:** Spacious front balcony + private bedroom balconies  
+**Listing:** [Malta Property — SM-68830](https://maltaproperty.com/property/sm-68830/apartment-with-a-balcony/)
+
+A fully furnished modern apartment in a quiet residential cul-de-sac in Qawra, featuring an open-plan kitchen/living/dining area, master bedroom with en-suite and private balcony, second bedroom with fitted furniture and balcony, and a third spare bedroom. Lift access, two air-conditioning units, freehold. Optional garage at €53,000. Turn-key condition.
+
+**Negotiation:** At €360,000 this is the most affordable three-bedroom option in the shortlist by a wide margin. A 5% cash-buyer reduction lands at **~€342,000**. Puts the contrast with the character-home market in sharp relief: the same money buys roughly 40% of a Siġġiewi HoC footprint, but in a furnished, ready-to-occupy coastal apartment.
+
+---
+
+#### Q2. Qawra — 3-Bed Apartment, 140m², Four En-Suite Bathrooms | €380,000
+
+**Type:** Apartment (freehold, 4th floor)  
+**Bedrooms:** 3 | **Bathrooms:** 4 (three en-suites + washroom)  
+**Size:** 140m² (120m² interior + 20m² outdoor)  
+**Outdoor:** Front and back balcony  
+**Listing:** [Benestates — BSAPT281927](https://benestates.com/property/for-sale-apartment-in-qawra-north-BSAPT281927/)
+
+An unusually well-appointed apartment for the price: 140m² total, three bedrooms each with en-suite bathroom, open-plan living area, and two balconies. Finished excluding bathrooms and doors — allowing a buyer to specify their own fitout at a modest additional cost. The four-bathroom count is remarkable at this price point.
+
+**Negotiation:** At €380,000 a 5–7% reduction brings the **likely close to €353,000–€361,000**. Add fitout for bathrooms and doors: allow €30,000–€40,000 for a quality finish. All-in under €420,000.
+
+---
+
+#### Q3. Qawra — 3-Bed Apartment, 125m², Sea Views, Furnished | €447,000
+
+**Type:** Apartment (4th floor, furnished)  
+**Bedrooms:** 3 | **Bathrooms:** 2  
+**Size:** 125m² | **Outdoor:** Two balconies with BBQ area  
+**Views:** Sea views (confirmed)  
+**Listing:** [RE/MAX — Ref 240011177-104](https://remax-malta.com/listings/240011177-104)
+
+A well-appointed furnished apartment just 3 minutes' walk from the beach, featuring sea views, two balconies with BBQ area, master bedroom with en-suite, full air-conditioning, and lift access. The sea views and beach proximity make this the most "lifestyle-ready" of the three within-budget Qawra picks.
+
+**Negotiation:** At €447,000 a 5% reduction brings **~€425,000**. Sea-view apartments in Qawra hold their value relative to inland equivalents; discount expectations should be modest (4–5%).
+
+---
+
+### Aspirational
+
+---
+
+#### Q4. Qawra — 2-Bed Seafront Maisonette, Large Private Garden | €582,000
+
+**Type:** Maisonette (freehold, ground floor, unconverted)  
+**Bedrooms:** 2 | **Bathrooms:** 2  
+**Outdoor:** Large private garden + front terrace + drive-in parking  
+**Listing:** [Malta Property — SM-68449](https://maltaproperty.com/property/sm-68449/maisonette-with-a-garden/)
+
+An unconverted ground-floor freehold maisonette in Qawra with a large private garden — an unusual outdoor amenity for the area and the only garden property in this cohort. Separate kitchen, living room, dining room, laundry room and drive-in parking. The unconverted status means a buyer designs the interior to their specification. Freehold with full garden ownership.
+
+**Negotiation:** At €582,000 — the top of what unconverted Qawra stock offers — a 6–8% reduction is possible on an unconverted property: **target ~€535,000–€550,000**. Add fitout: a quality conversion with garden landscaping adds €80,000–€120,000. All-in ~€630,000–€670,000 for a garden-owning Qawra residence.
+
+---
+
+#### Q5. Qawra — 3-Bed Contemporary Penthouse, 195m², Country Views | €795,000
+
+**Type:** Penthouse (contemporary, top floor)  
+**Bedrooms:** 3 | **Bathrooms:** 2  
+**Size:** 195m² (157m² interior + 39m² external)  
+**Outdoor:** Large terrace with countryside views  
+**Listing:** [Belair Property — Ref 817635](https://belair.com.mt/property/817635)
+
+The largest and most premium residential property available in Qawra: a contemporary penthouse with open-plan layout, 195m² total floor space, and a 39m² terrace capturing countryside views. Optional garage spaces available. Customizable finishes make this suitable for buyers who want to spec a high-quality interior in a resort-area penthouse. A natural short-let investment vehicle given the area's strong tourist demand.
+
+**Negotiation:** At €795,000 this represents the ceiling of the Qawra single-residential market. A 4–5% reduction brings **~€755,000–€765,000**. No UCA stamp-duty relief (Qawra has no UCA designation), so standard 5% duty (~€39,750) applies — total acquisition cost approximately **€800,000–€810,000** at the negotiated price.
+
+---
+
+### Qawra Summary
+
+| Ref | Property | Asking | Negotiated est. | Status |
+|-----|----------|--------|-----------------|--------|
+| Q1 | 3-bed apartment, cul-de-sac, fully furnished | €360,000 | ~€342k | Within budget |
+| Q2 | 3-bed apartment, 140m², 4 en-suites | €380,000 | ~€353–361k | Within budget |
+| Q3 | 3-bed apartment, 125m², sea views, furnished | €447,000 | ~€425k | Within budget |
+| Q4 | 2-bed maisonette, private garden, unconverted | €582,000 | ~€535–550k + fitout | Aspirational |
+| Q5 | 3-bed penthouse, 195m², country views | €795,000 | ~€755–765k all-in ~€805k | Aspirational |
+
+> **Calibration note:** The entire Qawra market (within budget to top aspirational) spans €360k–€795k. Property Q5 at €795k is the most expensive single residential listing available in the area. The same budget buys a character home in Siġġiewi (S3 at €906k) with twice the floor space, a courtyard, and UCA stamp-duty relief. The Qawra numbers are most useful as a price-per-square-metre benchmark for coastal apartment stock.
+
+---
+
+## NAXXAR
+
+### Area Introduction
+
+Naxxar is a large residential town on the high ridge north of the Three Villages, offering elevated views across central and southern Malta that few areas on the island can match. The ridgeline location means properties on the upper streets and in the Naxxar Hill area enjoy unobstructed panoramas stretching to the sea on clear days — something genuinely scarce in the wider Attard/Balzan corridor below. The town itself is a working Maltese community: a well-preserved parish square dominated by the Church of Our Lady of Victories, a weekly market, cafés and local shops. The Palazzo Parisio — a baroque palace whose gardens open to the public — sits prominently in the town centre and gives Naxxar its cachet as an address with genuine architectural heritage.
+
+Property here spans a wide range: terraced townhouses and apartment blocks at the affordable end, and an emerging tier of renovated or purpose-built luxury homes at the prestige end. Houses of character in Naxxar's UCA tend to be larger and cheaper than equivalent stock in Balzan or Attard — reflecting the area's lower profile with international buyers despite its arguably superior views. For a family prioritising space, elevation and a genuine Maltese village character without the Three Villages price premium, Naxxar is a compelling alternative. Car-dependence for Valletta and the coast is similar to Siġġiewi (~25–30 minutes); Naxxar itself has good bus connections.
+
+### Within Budget
+
+---
+
+#### N1. Naxxar — 3-Bed Terraced House, Private Yard + Roof Terrace | €656,000
+
+**Type:** Terraced house (freehold, ground floor + airspace)  
+**Bedrooms:** 3 | **Bathrooms:** 1  
+**Outdoor:** Private backyard + roof terrace  
+**Listing:** [Malta Property — SM-68452](https://maltaproperty.com/property/sm-68452/terraced-house/)
+
+A ground-floor freehold terraced house in Naxxar fully outfitted and furnished for move-in. Three sleeping areas, separate living quarters, private backyard and roof terrace with full airspace rights. The airspace ownership is significant — it allows a buyer to extend vertically or install PV panels without restriction. Suitable as a family home or development opportunity.
+
+**Negotiation:** At €656,000 a 5% reduction brings **~€623,000**. Full airspace at this price in a Maltese village with good road connections represents strong land value.
+
+---
+
+#### N2. Naxxar — 3-Bed Terraced House, 180m², Refurbishment Opportunity | €800,000
+
+**Type:** Terraced house (180m² internal)  
+**Bedrooms:** 3 | **Bathrooms:** 2  
+**Size:** 180m² (160m² internal + 20m² courtyard)  
+**Outdoor:** Courtyard + garden  
+**Listing:** [Malta Luxury Homes — MLS 1001913](https://maltaluxuryhomes.com/property/naxxar-terraced-house-mls-1001913/)
+
+A spacious 180m² terraced house in Naxxar with separate lounge and dining areas, air conditioning, ceramic flooring, courtyard and garden. Presented as a "great refurbishment opportunity" — in Maltese real estate parlance this means original condition with cosmetic updating needed, but structurally sound and in a good village-core location. For buyers with renovation appetite, refurbishment costs on a property this size run €50,000–€100,000 to a high standard.
+
+**Negotiation:** At €800,000 a 6–8% discount is achievable on a refurbishment property (sellers with renovation stock are often more motivated): **target €736,000–€752,000**. Add refurbishment budget; all-in well inside the €1M envelope.
+
+---
+
+#### N3. Naxxar — 4-Bed HoC, UCA, Pool + Entertaining Deck | €1,100,000
+
+**Type:** House of Character (UCA, luxury conversion)  
+**Bedrooms:** 4 | **Bathrooms:** 4 (each en-suite)  
+**Outdoor:** Swimming pool, entertaining deck  
+**Listing:** [Facebook Marketplace — Item 1331394635135214](https://www.facebook.com/marketplace/item/1331394635135214/)
+
+An exceptional house of character in the heart of Naxxar's UCA area, described as offering "a unique blend of luxury and comfort" — four spacious bedrooms each with private en-suite, extensive outdoor amenities including a swimming pool and entertaining deck. UCA designation means stamp-duty relief applies. The pool-plus-four-en-suites package is comparable to what the Three Villages aspirational tier provides, at a materially lower price.
+
+**Negotiation:** At €1,100,000 this is 10% above the nominal budget but a very strong all-in case with UCA duty relief: stamp duty approximately €5,250 (0% on first €750k + 1.5% on €250k → ~€3,750 + notary ~€17k ≈ €21k total acquisition cost). A 5% cash-buyer discount brings the purchase price to **~€1,045,000; all-in approximately €1,066,000** — the tightest fit in the shortlist but defensible.
+
+---
+
+### Aspirational
+
+---
+
+#### N4. Naxxar — 3-Bed Terraced House, 813m² Plot, Countryside Views | €1,950,000
+
+**Type:** Terraced house (fully furnished, 813m² plot)  
+**Bedrooms:** 3 | **Bathrooms:** 3  
+**Size:** 813 m² total plot  
+**Outdoor:** Generous backyard, paved entertaining areas, pool permit approved  
+**Views:** Stunning countryside views, surrounded by farmland, complete privacy  
+**Listing:** [Malta Sotheby's — Ref 312121](https://www.maltasothebysrealty.com/property/3-bed-terraced-house-for-sale-in-naxxar/312121)
+
+A fully furnished residence on a substantial 813m² plot on the Naxxar heights, with approved permits for pool construction and outstanding countryside views — surrounded by farmland and offering complete privacy unusual in an island environment. The formal sitting room, equipped kitchen/dining area, and three en-suite bedrooms are finished to a high standard. The plot size and countryside panorama are the defining features; this is the kind of Naxxar property the client's description ("great views from the hill with space") most closely matches.
+
+**Negotiation:** At €1,950,000 — 95% above the nominal budget — this is a major stretch. Sotheby's mandate leaves limited room: 3–5% reduction brings **~€1.85–1.90M**. The 813m² plot in an elevated position is the value anchor; comparable plot sizes in the Three Villages at this finish level would exceed €3M.
+
+---
+
+#### N5. Naxxar — 3-Bed HoC, Views over Palazzo Parisio Gardens | €2,050,000
+
+**Type:** House of Character (multiple listings at same price — high-prestige address)  
+**Bedrooms:** 3  
+**Outdoor:** Pool, private outdoor space  
+**Views:** Over Palazzo Parisio gardens and Naxxar Church  
+**Listing:** [Malta Property Hunt — Naxxar HoC](https://maltapropertyhunt.com/naxxar/house-of-character)
+
+A house of character in the most coveted position in Naxxar — overlooking the baroque Palazzo Parisio gardens and the parish church square. Multiple listings at the €2,050,000 mark have appeared in this location across recent months (indicating either the same property re-listed or comparable neighbours). Pool, private outdoor space, and a prime address on one of the island's most architecturally significant streets. The former boutique hotel at €1,100,000 (N3 above) is on a comparable street; this property at €2,050,000 reflects the step-change in finish level and garden view frontage.
+
+**Negotiation:** At €2,050,000 a 5% reduction brings **~€1.95M**. This is almost exclusively a "lifestyle address" purchase — the Palazzo Parisio frontage commands an irreplaceable premium. Confirm the exact property address and title before proceeding, as multiple listings at this price point warrant verification that they are distinct properties.
+
+---
+
+### Naxxar Summary
+
+| Ref | Property | Asking | Negotiated est. | Status |
+|-----|----------|--------|-----------------|--------|
+| N1 | 3-bed terraced house, private yard + roof terrace | €656,000 | ~€623k | Within budget |
+| N2 | 3-bed terraced house, 180m², courtyard + garden | €800,000 | ~€736–752k | Within budget |
+| N3 | 4-bed UCA HoC, 4 en-suites, pool | €1,100,000 | ~€1.07M all-in | Within budget (tight) |
+| N4 | 3-bed, 813m² plot, countryside views, pool permit | €1,950,000 | ~€1.85–1.90M | Aspirational |
+| N5 | 3-bed HoC, Palazzo Parisio garden views | €2,050,000 | ~€1.95M | Aspirational |
+
+---
+
+*Sources: Frank Salt Real Estate · Property Giant · Dhalia Real Estate · Sensara Malta · Benestates · Arcus Estates · The Elite · Zanzi Homes · Malta Sotheby's International Realty · Perry Real Estate · Bernards Real Estate · Malta Luxury Homes · RE/MAX Malta · Belair Property · Malta Property (maltaproperty.com) · Malta Property Hunt (maltapropertyhunt.com). All prices and listing details verified June 2026; listings subject to change. Confirm availability, UCA status, and current pricing directly with the listed agent before proceeding. Facebook Marketplace listings are agent-originated listings republished on that platform — contact the agency directly for formal viewings.*
